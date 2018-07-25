@@ -3,8 +3,8 @@
     "id": 145,
     "name": "Rizal Park Manila",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Rizal_Park_Front_View.jpg/1200px-Rizal_Park_Front_View.jpg",
-    "price": 400,
-    "priceCurrency": "PHP",
+    "price": 266 ,
+    "priceCurrency": "km",
     "lat":14.582150,
     "lng": 120.977059
     
@@ -13,8 +13,8 @@
     "id": 146,
     "name": "Manila Ocean Park",
     "imageUrl": "http://www.sykes.com/philippines/wp-content/uploads/2016/09/Photo-from-Manila-Ocean-Park-Blog.jpg",
-    "price": 450,
-    "priceCurrency": "PHP",
+    "price": 267,
+    "priceCurrency": "km",
     "lat": 14.579395,
     "lng": 120.972539
       
@@ -94,19 +94,18 @@
       {
     "id": 154,
     "name": "Sky Ranch Tagaytay",
-    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/07/b4/7d/aa/pindangan-ruins.jpg",
-    "price": 30,
+    "imageUrl": "http://1.bp.blogspot.com/-c0rkgGgXn_0/Vck5flIw2VI/AAAAAAAAaOE/KJzRvfEQor8/s1600/skyranch_tagaytay_amusement_park.jpg",
+    "price": 1300,
     "priceCurrency": "PHP",
-    "lat": 16.588499,
-    "lng": 120.314626
-       
+    "lat": 14.096070,
+    "lng": 120.937059       
      
   },
      {
-    "id": 217,
-    "name": "Macho Temple",
-    "imageUrl": "https://www.travelbook.ph/blog/cms/wp-content/uploads/old-site/gallery/12_la_union_san_fernando_ma_cho_temple_betty_tianco.jpg",
-    "price": 20,
+    "id": 155,
+    "name": "Calle Crisologo Vigan",
+    "imageUrl": "http://primer.com.ph/travel/wp-content/uploads/sites/6/2017/02/IMG_0314.jpg",
+    "price": 1000,
     "priceCurrency": "PHP",
     "lat": 16.621501,
     "lng": 120.317520
