@@ -113,7 +113,16 @@
     "lng": 120.718099
       
   },
-
+ {
+    "id": 156,
+    "name": "Bacolod",
+    "imageUrl": "https://www.thepoortraveler.net/wp-content/uploads/2017/10/Ruins-Bacolod.jpg",
+    "price": 975,
+    "priceCurrency": "km",
+    "lat": 11.007833,
+    "lng": 122.940842
+      
+  },
 
      {
     "id": 219,
