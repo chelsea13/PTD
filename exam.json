@@ -83,6 +83,16 @@
     "lng": 120.627892
       
   },
+    {
+    "id": 153,
+    "name": "Puerto Princesa",
+    "imageUrl": "http://primer.com.ph/travel/wp-content/uploads/sites/6/2016/01/image7.jpg",
+    "price": 1039,
+    "priceCurrency": "km",
+    "lat": 9.972349,
+    "lng": 118.774455
+      
+  },
 
      {
     "id": 219,
