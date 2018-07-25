@@ -96,7 +96,7 @@
     {
     "id": 154,
     "name": "Bangui Windmills",
-    "imageUrl": "http://primer.com.ph/travel/wp-content/uploads/sites/6/2016/01/image7.jpg",
+    "imageUrl": "https://hannahsbeachresort.com/wp-content/uploads/2013/07/n_0002_8.jpg",
     "price": 279,
     "priceCurrency": "km",
     "lat": 18.528906,
@@ -121,6 +121,16 @@
     "priceCurrency": "km",
     "lat": 11.007833,
     "lng": 122.940842
+      
+  },
+    {
+    "id": 157,
+    "name": "Grand Venice Mall",
+    "imageUrl": "https://c1.staticflickr.com/2/1673/24795076502_e14693b192_b.jpg",
+    "price": 277,
+    "priceCurrency": "km",
+    "lat": 14.533853,
+    "lng": 121.051134
       
   },
 
