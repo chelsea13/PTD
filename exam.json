@@ -54,7 +54,7 @@
   {
     "id": 150,
     "name": "El Nido Palawan",
-    "imageUrl": "http://windowseat.ph/wp-content/uploads/2016/08/grape-farm-la-union.jpg",
+    "imageUrl": "https://www.gettingstamped.com/wp-content/uploads/2016/02/Things-to-do-in-El-Nido-Philippines-matinloc-shrine-El-Nido-Tour-C-1-800x530.jpg",
     "price": 2400,
     "priceCurrency": "PHP",
     "lat": 11.194727,
@@ -62,27 +62,27 @@
       
   },
   {
-    "id": 210,
-    "name": "Baluarte Watch Tower",
-    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0f/8f/1e/80/baluarte-watch-tower.jpg",
-    "price": 90,
+    "id": 151,
+    "name": "Puerto Princesa Palawan",
+    "imageUrl": "https://cdn.travelbook.ph/images/tour/plan/80001201/L/80001201_001.JPG?date=20170614",
+    "price": 2500,
     "priceCurrency": "PHP",
-    "lat": 16.856968,
-    "lng": 120.372883
+    "lat": 9.975054,
+    "lng": 118.771709
      
   },
   {
-    "id": 211,
-    "name": "Immuki Island",
-    "imageUrl": "http://www.balaoanlaunion.gov.ph/wp-content/uploads/2017/09/IMMUKI-ISLAND.jpg",
-    "price": 100,
+    "id": 152,
+    "name": "Mines View Park Baguio",
+    "imageUrl": "http://primer.com.ph/travel/wp-content/uploads/sites/6/2016/01/image7.jpg",
+    "price": 500,
     "priceCurrency": "PHP",
-    "lat": 16.803169,
-    "lng": 120.325469
+    "lat": 16.419894,
+    "lng": 120.627892
       
   },
      {
-    "id": 215,
+    "id": 153,
     "name": "San Juan",
     "imageUrl": "http://2.bp.blogspot.com/-36kNZ6wz5U8/UcFhGnBBYtI/AAAAAAAAB0Y/N61QTERVv2Q/s640/surfing-in-la-union.JPG",
     "price": 30,
