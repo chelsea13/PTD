@@ -1,7 +1,7 @@
 [
 {
     "id": 145,
-    "name": "Rizal Park",
+    "name": "Rizal Park Manila",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Rizal_Park_Front_View.jpg/1200px-Rizal_Park_Front_View.jpg",
     "price": 400,
     "priceCurrency": "PHP",
@@ -21,44 +21,45 @@
      
   },
      {
-    "id": 149,
-    "name": "Halo Halo de iloko",
-    "imageUrl": "http://4.bp.blogspot.com/-qKXCS7ZTw3Y/T7GtfDRNRzI/AAAAAAAAGFs/g94N0_D0F-4/s1600/DSCN1832.jpg",
-    "price": 30,
+    "id": 147,
+    "name": "Boracay",
+    "imageUrl": "http://travel.philippinecentral.com/wp-content/uploads/2014/06/boracay_sand_castle.jpg",
+    "price": 2600,
     "priceCurrency": "PHP",
-    "lat": 16.617592,
-    "lng": 120.319814
+    "lat": 11.967822,
+    "lng": 121.920582
+        
        
   },
     {
-    "id": 155,
-    "name": "Agoo Church",
-    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-o/0a/6b/8f/c2/this-location-is-only.jpg",
-    "price": 50,
+    "id": 148,
+    "name": "Magellan Cross Cebu",
+    "imageUrl": "http://www.freedomwall.net/files/2014/12/Shrine-of-Magellans-Cross.jpg",
+    "price": 2500,
     "priceCurrency": "PHP",
-    "lat": 16.324962,
-    "lng": 120.355102
-       
+    "lat": 10.293779,
+    "lng": 123.901927
+              
   },
   {
-    "id": 201,
-    "name": "Tangadan Falls",
-    "imageUrl": "https://www.thepinaysolobackpacker.com/wp-content/uploads/2017/03/LA-UNION-TANGADAN-FALLS-5-1-of-12-846x515.jpeg",
-    "price": 80,
+    "id": 149,
+    "name": "Chocolate Hills Bohol",
+    "imageUrl": "https://livingnomads.com/wp-content/uploads/2017/12/07/bohol-chocolate-hills-PHIL0116.jpg",
+    "price": 2800,
     "priceCurrency": "PHP",
-    "lat": 16.643948,
-    "lng": 120.448791
+    "lat": 9.830892,
+    "lng": 124.139718     
  
   },
   {
-    "id": 205,
-    "name": "Bauang Grapes Farm",
+    "id": 150,
+    "name": "El Nido Palawan",
     "imageUrl": "http://windowseat.ph/wp-content/uploads/2016/08/grape-farm-la-union.jpg",
-    "price": 70,
+    "price": 2400,
     "priceCurrency": "PHP",
-    "lat": 16.461364,
-    "lng": 120.333840
-    
+    "lat": 11.194727,
+    "lng": 119.391509
+      
   },
   {
     "id": 210,
