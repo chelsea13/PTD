@@ -93,6 +93,17 @@
     "lng": 118.774455
       
   },
+    {
+    "id": 153,
+    "name": "Bangui Windmills",
+    "imageUrl": "http://primer.com.ph/travel/wp-content/uploads/sites/6/2016/01/image7.jpg",
+    "price": 279,
+    "priceCurrency": "km",
+    "lat": 18.528906,
+    "lng": 120.718099
+      
+  },
+
 
      {
     "id": 219,
