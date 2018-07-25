@@ -143,6 +143,17 @@
     "lng": 120.370640
      
   },
+     {
+    "id": 159,
+    "name": "Banaue Rice Terraces",
+    "imageUrl": "http://bworldonline.com/wp-content/uploads/2018/04/Banaue-Rice-Terraces.jpg",
+    "price": 213,
+    "priceCurrency": "km",
+    "lat": 16.924242,
+    "lng": 121.055661
+        
+     
+  },
 
      {
     "id": 219,
