@@ -1,21 +1,23 @@
 [
 {
     "id": 145,
-    "name": "Thunderbird Resort Poro Point",
-    "imageUrl": "http://www.wayfairtours.com.ph/wti/wp-content/uploads/2016/04/thunderbird-resort-poro-point7.jpg",
-    "price": 50,
+    "name": "Rizal Park",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Rizal_Park_Front_View.jpg/1200px-Rizal_Park_Front_View.jpg",
+    "price": 400,
     "priceCurrency": "PHP",
-    "lat":16.612280,
-    "lng": 120.284754
+    "lat":14.582150,
+    "lng": 120.977059
+    
   },
   {
-    "id": 148,
-    "name": "Pugad Pugo Adventure",
-    "imageUrl": "https://lh6.googleusercontent.com/-ZZu06kiK0fU/WE2k3P9iDmI/AAAAAAAAAYA/HAuhNjEA2JIboxYfv60qjARqkXZOMji3QCLIB/s1600-w400/",
-    "price": 200,
+    "id": 146,
+    "name": "Manila Ocean Park",
+    "imageUrl": "http://www.sykes.com/philippines/wp-content/uploads/2016/09/Photo-from-Manila-Ocean-Park-Blog.jpg",
+    "price": 450,
     "priceCurrency": "PHP",
-    "lat": 16.336739,
-    "lng": 120.478823
+    "lat": 14.579395,
+    "lng": 120.972539
+      
      
   },
      {
