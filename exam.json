@@ -83,18 +83,17 @@
   },
      {
     "id": 153,
-    "name": "San Juan",
-    "imageUrl": "http://2.bp.blogspot.com/-36kNZ6wz5U8/UcFhGnBBYtI/AAAAAAAAB0Y/N61QTERVv2Q/s640/surfing-in-la-union.JPG",
+    "name": "Samal Island",
+    "imageUrl": "http://www.samal-island.com/wp-content/uploads/2013/09/slide-2.jpg",
     "price": 30,
     "priceCurrency": "PHP",
-    "lat": 16.658783,
-    "lng": 120.321403
-        
+    "lat": 7.104254,
+    "lng": 125.717335
      
   },
       {
-    "id": 216,
-    "name": "Pindangan Ruins",
+    "id": 154,
+    "name": "Sky Ranch Tagaytay",
     "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/07/b4/7d/aa/pindangan-ruins.jpg",
     "price": 30,
     "priceCurrency": "PHP",
