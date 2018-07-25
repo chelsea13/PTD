@@ -1,1 +1,137 @@
-
+[
+{
+    "id": 145,
+    "name": "Thunderbird Resort Poro Point",
+    "imageUrl": "http://www.wayfairtours.com.ph/wti/wp-content/uploads/2016/04/thunderbird-resort-poro-point7.jpg",
+    "price": 50,
+    "priceCurrency": "PHP",
+    "lat":16.612280,
+    "lng": 120.284754
+  },
+  {
+    "id": 148,
+    "name": "Pugad Pugo Adventure",
+    "imageUrl": "https://lh6.googleusercontent.com/-ZZu06kiK0fU/WE2k3P9iDmI/AAAAAAAAAYA/HAuhNjEA2JIboxYfv60qjARqkXZOMji3QCLIB/s1600-w400/",
+    "price": 200,
+    "priceCurrency": "PHP",
+    "lat": 16.336739,
+    "lng": 120.478823
+     
+  },
+     {
+    "id": 149,
+    "name": "Halo Halo de iloko",
+    "imageUrl": "http://4.bp.blogspot.com/-qKXCS7ZTw3Y/T7GtfDRNRzI/AAAAAAAAGFs/g94N0_D0F-4/s1600/DSCN1832.jpg",
+    "price": 30,
+    "priceCurrency": "PHP",
+    "lat": 16.617592,
+    "lng": 120.319814
+       
+  },
+    {
+    "id": 155,
+    "name": "Agoo Church",
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-o/0a/6b/8f/c2/this-location-is-only.jpg",
+    "price": 50,
+    "priceCurrency": "PHP",
+    "lat": 16.324962,
+    "lng": 120.355102
+       
+  },
+  {
+    "id": 201,
+    "name": "Tangadan Falls",
+    "imageUrl": "https://www.thepinaysolobackpacker.com/wp-content/uploads/2017/03/LA-UNION-TANGADAN-FALLS-5-1-of-12-846x515.jpeg",
+    "price": 80,
+    "priceCurrency": "PHP",
+    "lat": 16.643948,
+    "lng": 120.448791
+ 
+  },
+  {
+    "id": 205,
+    "name": "Bauang Grapes Farm",
+    "imageUrl": "http://windowseat.ph/wp-content/uploads/2016/08/grape-farm-la-union.jpg",
+    "price": 70,
+    "priceCurrency": "PHP",
+    "lat": 16.461364,
+    "lng": 120.333840
+    
+  },
+  {
+    "id": 210,
+    "name": "Baluarte Watch Tower",
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0f/8f/1e/80/baluarte-watch-tower.jpg",
+    "price": 90,
+    "priceCurrency": "PHP",
+    "lat": 16.856968,
+    "lng": 120.372883
+     
+  },
+  {
+    "id": 211,
+    "name": "Immuki Island",
+    "imageUrl": "http://www.balaoanlaunion.gov.ph/wp-content/uploads/2017/09/IMMUKI-ISLAND.jpg",
+    "price": 100,
+    "priceCurrency": "PHP",
+    "lat": 16.803169,
+    "lng": 120.325469
+      
+  },
+     {
+    "id": 215,
+    "name": "San Juan",
+    "imageUrl": "http://2.bp.blogspot.com/-36kNZ6wz5U8/UcFhGnBBYtI/AAAAAAAAB0Y/N61QTERVv2Q/s640/surfing-in-la-union.JPG",
+    "price": 30,
+    "priceCurrency": "PHP",
+    "lat": 16.658783,
+    "lng": 120.321403
+        
+     
+  },
+      {
+    "id": 216,
+    "name": "Pindangan Ruins",
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/07/b4/7d/aa/pindangan-ruins.jpg",
+    "price": 30,
+    "priceCurrency": "PHP",
+    "lat": 16.588499,
+    "lng": 120.314626
+       
+     
+  },
+     {
+    "id": 217,
+    "name": "Macho Temple",
+    "imageUrl": "https://www.travelbook.ph/blog/cms/wp-content/uploads/old-site/gallery/12_la_union_san_fernando_ma_cho_temple_betty_tianco.jpg",
+    "price": 20,
+    "priceCurrency": "PHP",
+    "lat": 16.621501,
+    "lng": 120.317520
+        
+       
+ 
+  },
+     {
+    "id": 218,
+    "name": "Bahay na Bato",
+    "imageUrl": "http://www.tupanggala.com/wp-content/uploads/2017/01/BahaynaBato_01.jpg",
+    "price": 70,
+    "priceCurrency": "PHP",
+    "lat": 16.847520,
+    "lng": 120.351719
+        
+       
+ 
+  },
+     {
+    "id": 219,
+    "name": "House",
+    "imageUrl": "https://raw.githubusercontent.com/chelsea13/TSLU/master/bahay.jpg",
+    "price": 30,
+    "priceCurrency": "PHP",
+    "lat": 16.589047,
+    "lng": 120.317192
+     
+  }
+]
