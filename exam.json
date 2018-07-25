@@ -133,6 +133,16 @@
     "lng": 121.051134
       
   },
+    {
+    "id": 158,
+    "name": "Bataan",
+    "imageUrl": "http://business.inquirer.net/files/2015/06/Bataan-4.jpg",
+    "price": 254,
+    "priceCurrency": "km",
+    "lat": 14.714341,
+    "lng": 120.370640
+     
+  },
 
      {
     "id": 219,
