@@ -86,7 +86,7 @@
     {
     "id": 153,
     "name": "Puerto Princesa",
-    "imageUrl": "http://primer.com.ph/travel/wp-content/uploads/sites/6/2016/01/image7.jpg",
+    "imageUrl": "https://farm5.staticflickr.com/4699/39589139531_3edc8ef2b9_b.jpg",
     "price": 1039,
     "priceCurrency": "km",
     "lat": 9.972349,
@@ -94,10 +94,20 @@
       
   },
     {
-    "id": 153,
+    "id": 154,
     "name": "Bangui Windmills",
     "imageUrl": "http://primer.com.ph/travel/wp-content/uploads/sites/6/2016/01/image7.jpg",
     "price": 279,
+    "priceCurrency": "km",
+    "lat": 18.528906,
+    "lng": 120.718099
+      
+  },
+    {
+    "id": 155,
+    "name": "Laoag",
+    "imageUrl": "https://sa.kapamilya.com/absnews/abscbnnews/media/2017/news/05/18/laoag-city-2017.jpg?ext=.jpg",
+    "price": 218,
     "priceCurrency": "km",
     "lat": 18.528906,
     "lng": 120.718099
@@ -109,8 +119,8 @@
     "id": 219,
     "name": "House",
     "imageUrl": "https://raw.githubusercontent.com/chelsea13/TSLU/master/bahay.jpg",
-    "price": 30,
-    "priceCurrency": "PHP",
+    "price": 0,
+    "priceCurrency": "km",
     "lat": 16.589047,
     "lng": 120.317192
      
